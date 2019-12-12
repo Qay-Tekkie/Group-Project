@@ -8,6 +8,14 @@
     background: cover cover / no-repeat;
 }
 
+#about,
+#impact,
+#support,
+#contact,
+#laws {
+    padding-top: 50px;
+}
+
 .navbar {
     background-color: teal;
 }
