@@ -1,5 +1,5 @@
 #helpline {
-    padding-left: 20px;
+    padding-left: 150px;
 }
 
 #img-carousel {
@@ -12,8 +12,13 @@
 #impact,
 #support,
 #contact,
-#laws {
+#laws,
+#faq {
     padding-top: 60px;
+}
+
+#laws {
+    text-align: start;
 }
 
 #img-carousel {
@@ -154,4 +159,7 @@
 }
 .lead {
     font-weight: bold;
+}
+#social {
+    color: white;
 }
